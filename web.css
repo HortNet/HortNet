@@ -1,0 +1,32 @@
+body{
+    
+ 	background-image: url("hortNetcolumn.jpg");
+	background-repeat: no-repeat;
+
+}
+#secondrow{
+padding-top: 70px;
+}
+.rounded{
+	border-radius:60px 50px 30px ;
+
+}
+#thirdrow{
+background-color: seagreen;
+
+}
+h2{
+	font-family: monospace ;
+
+}
+p{
+	font-family: sans-serif;}
+
+.h5{
+    font-family: cursive;
+	}
+#firstcontainer{
+
+}
+
+
